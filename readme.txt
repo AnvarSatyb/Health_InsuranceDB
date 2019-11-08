@@ -12,7 +12,7 @@ and will be loaded into MongoDB using Python.
 
 Finally, in MongoDB the data can been analyzed and visualized using different tools.
 
-To start working with this programm please:
+To start working with this program please:
 1. You need to start your Zookeper
 You can open you Command Prompt and type C:\kafka\bin\windows\kafka-topics.bat --list --zookeeper localhost:2181
 
