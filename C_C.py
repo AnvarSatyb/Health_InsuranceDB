@@ -1,0 +1,1 @@
+print('This assignment was cancelled by instructor due to mistakes inside of this task requirements')
